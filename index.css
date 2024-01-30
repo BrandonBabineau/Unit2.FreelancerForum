@@ -1,0 +1,16 @@
+#price li::before {
+    content: '$';
+    margin-right: 4px; 
+  }
+  div {
+    margin-left: 40px;
+  }
+  ul {
+    float: left;
+    font-size: 20px; 
+    margin: 0px;
+  }
+  li {
+    list-style: none;
+  }
+
